@@ -11,7 +11,7 @@ class Category(models.Model):
         verbose_name = "categoría"
         verbose_name_plural = "categorías"
         ordering = ["-created"]
-
+    
     def __str__(self):
         return self.name
 

@@ -1,6 +1,6 @@
-# Web Empresarial del Curso de Django
+# Web Empresarial Django
 
-Proyecto revisado y funcionando perfectamente con Python==3.10.2 y Django>=4.0.2
+Proyecto revisado y funcionando perfectamente con Python==3.10.2 y Django>=5.1.2
 
 ### Instalación con Pipenv usando requirements.txt
 
